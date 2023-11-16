@@ -1,3 +1,3 @@
-class LinkedList:
+def fib(n):
     # implement me
     pass
