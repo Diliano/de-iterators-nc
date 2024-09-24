@@ -7,10 +7,8 @@ class NCEnumerate:
         return self
     
     def __next__(self):
-        try:
-            result = (self.index, next(self.collection_iterator))
-            self.index += 1
-            return result
-        except StopIteration:
-            raise StopIteration
+        result = (self.index, next(self.collection_iterator))
+        self.index += 1
+        return result
+
             
