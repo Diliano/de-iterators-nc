@@ -10,4 +10,4 @@ class NCFilter:
         while True:
             value = next(self.collection_iterator)
             if self.func(value):
-                return value            
+                return value
