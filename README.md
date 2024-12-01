@@ -1,3 +1,5 @@
-# Iterators
+# Data Engineering Bootcamp - Iterators, Iterables & Generators
 
-Instructions for this repo can be found at: https://l2c.northcoders.com/courses/de2-fun/iterators1
+## Overview
+
+This repository contains work completed as part of the 'Iterators, Iterables & Generators' Sprint during my Data Engineering Bootcamp. 
